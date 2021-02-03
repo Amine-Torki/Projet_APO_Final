@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Apokalyps android app">
+    <output-path>$PROJECT_DIR$/out/artifacts/Apokalyps_android_app</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+        <option name="signingMode" value="DEBUG" />
+      </options>
+    </properties>
+    <root id="archive" name="Apokalyps android app.apk" />
+  </artifact>
+</component>

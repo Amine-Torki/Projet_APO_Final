@@ -1,0 +1,10 @@
+FLECHES OU PROJECTILES : Faire en sorte qu'ils soient supprimés au bout d'un moment(en dehors de la map) car si y'a trop de fleche ça va faire trop d'entités --> out of memory
+
+minimap
+
+mettre autre sprite pour ghostbuilding, avec les contours en rouge
+
+les unités font moins d'un cube et peuvent attaquer les cubes à coté (soldier)
+ou les cubes à une distance de 6 (archer)
+
+detruire batiment refund la moitié
